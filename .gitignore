@@ -1,0 +1,8 @@
+build/
+.metadata/
+*.launch
+*.pyc
+*~
+~.swp
+Debug/
+!.gitignore
